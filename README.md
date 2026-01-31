@@ -6,25 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success.svg)
 
 
-## 📋 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Arquitetura ETL](#arquitetura-etl)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Instalação](#instalação)
-- [Como Executar](#como-executar)
-- [Pipeline ETL Detalhado](#pipeline-etl-detalhado)
-- [Métricas Criadas](#métricas-criadas)
-- [Análises Disponíveis](#análises-disponíveis)
-- [Resultados](#resultados)
-- [Aprendizados](#aprendizados)
-- [Próximos Passos](#próximos-passos)
-- [Autor](#autor)
-- [Licença](#licença)
-
----
-
 ## 📖 Sobre o Projeto
 
 Este projeto implementa um **pipeline ETL (Extract, Transform, Load)** completo para análise de dados de vendas de supermercado. O objetivo é demonstrar habilidades em **Engenharia de Dados**, incluindo:
@@ -32,8 +13,7 @@ Este projeto implementa um **pipeline ETL (Extract, Transform, Load)** completo 
 - ✅ Extração de dados de fontes externas (CSV via URL)
 - ✅ Transformação e enriquecimento de dados com Python/Pandas
 - ✅ Tradução completa para português (colunas e valores)
-- ✅ Criação de **30+ métricas calculadas** e dimensões temporais
-- ✅ Otimização de armazenamento (CSV → Parquet)
+- ✅ Criação de métricas calculadas e dimensões temporais
 - ✅ Análises SQL avançadas com DuckDB
 - ✅ Geração de insights de negócio
 
