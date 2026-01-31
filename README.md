@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.1.4-green.svg)
 ![DuckDB](https://img.shields.io/badge/DuckDB-0.9.2-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Concluído-success.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 ## 📋 Índice
 
