@@ -1,13 +1,13 @@
 # 🛒 Projeto ETL - Análise de Vendas de Supermercado
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-success.svg)
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-2.3.2-green.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ##  Arquitetura do Pipeline
 <p align="center">
-  <img src="imagens/arquitetura.png" alt="Arquitetura do Projeto" width="850">
+  <img src="imagens/arquitetura_projeto.png" alt="Arquitetura do Projeto" width="850">
 </p>
 
 ##  Objetivo do Projeto
