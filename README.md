@@ -51,6 +51,26 @@ No notebook `Tratamento.ipynb`, foi aplicado as regras de negócio para gerar va
 
 ##  Principais Métricas Criadas (KPIs)
 
-* **Ticket Médio por Período:** Permite ver se as vendas da "Noite" são mais valiosas que as da "Manhã".
-* **Volume por Quinzena:** Mostra a sazonalidade relacionada ao ciclo de pagamento dos consumidores.
-* **Performance por Filial:** Comparativo direto de receita entre as unidades da rede.
+O Dashboard visa fornecer uma visão 360º da saúde financeira e operacional, permitindo identificar:
+
+* **Perfil de Consumo e Faturamento:** 
+Dominância do Perfil Econômico: O perfil "Econômico" representa a maior fatia das vendas (440 unidades), sugerindo que a estratégia de preço baixo ou produtos de entrada é o motor do volume da empresa.
+
+Potencial do Segmento Premium: Apesar de ter o menor volume (60), o segmento "Premium" é uma oportunidade de aumento de margem se houver conversão dos clientes "Padrão" (260).
+
+Ticket Médio Estável: O ticket médio de R$ 322,97 serve como métrica de controle para futuras campanhas de upselling.
+
+* **Comportamento Temporal de Vendas:** 
+Pico Semanal aos Sábados: O maior volume de vendas ocorre no Sábado (164), seguido pela Terça-feira (158). Isso indica uma oportunidade para campanhas de marketing direcionadas para o final de semana.
+
+Sazonalidade Quinzenal: No gráfico de faturamento por quinzena, nota-se uma queda significativa na 2ª quinzena de fevereiro (40 Mil) em comparação à 2ª quinzena de janeiro (64 Mil), o que pode estar relacionado ao período de Carnaval ou menor número de dias úteis.
+
+* **Satisfação e Experiência do Cliente:** A
+lerta de Insatisfação: O gráfico de "Volume de Vendas por Avaliação" mostra que o grupo "Insatisfeito" (174) é relevante. Embora a média de avaliação seja 7, existe um volume considerável de clientes "Neutros" (345) que podem ser convertidos em promotores com melhorias no pós-venda.
+
+Conversão de Feedback: A soma de clientes "Satisfeitos" e "Muito Satisfeitos" (481) supera os insatisfeitos, mas a margem bruta média de 4,76 sugere que o custo de aquisição ou operação pode estar alto para manter esse nível de serviço.
+
+##  Resultado Final da Análise
+<p align="center">
+  <img src="imagens/Dashboard.png" alt="Dashboard do Projeto" width="850">
+</p>
